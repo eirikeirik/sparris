@@ -1,2 +1,2 @@
 # sparris
-.
+.T
